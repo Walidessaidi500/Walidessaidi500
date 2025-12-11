@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Walid Essaidi
 
-<!--
-**Walidessaidi500/Walidessaidi500** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desarrollador en crecimiento, siempre aprendiendo algo nuevo y construyendo proyectos para mejorar mis skills. Me gustan las tecnologías web, la automatización y entender cómo funciona todo “por dentro”.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías con las que estoy trabajando
+- **Angular & TypeScript**
+- **PHP / Laravel**
+- **Docker & Linux (Ubuntu)**
+- **MySQL / SQL**
+- **HTML, CSS, JS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Actualmente aprendiendo
+- Arquitectura front-end
+- Buenas prácticas y clean code
+- DevOps básico (Docker, contenedores, despliegues)
+
+## 🛠️ Mis objetivos
+- Convertirme en un desarrollador full-stack sólido
+- Crear proyectos reales y escalables
+- Seguir mejorando día a día
+
+## 🌐 Otros proyectos personales
+- Canal de YouTube sobre desarrollo personal y productividad
+- Formándome en **copywriting** y **SEO**
+- Creación de tienda Shopify: **Velvra**
+
+## 📫 Contacto
+**Email:** walid.essb@gmail.com  
