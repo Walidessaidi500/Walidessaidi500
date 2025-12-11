@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Walid Essaidi
 
-Desarrollador en crecimiento, siempre aprendiendo algo nuevo y construyendo proyectos para mejorar mis skills. Me gustan las tecnologías web, la automatización y entender cómo funciona todo “por dentro”.
+Desarrollador en crecimiento, siempre aprendiendo algo nuevo. Me gustan las tecnologías web, la automatización y entender cómo funciona todo “por dentro”.
 
 ## 🚀 Tecnologías con las que estoy trabajando
 - **Angular & TypeScript**
@@ -25,4 +25,4 @@ Desarrollador en crecimiento, siempre aprendiendo algo nuevo y construyendo proy
 - Creación de tienda Shopify: **Velvra**
 
 ## 📫 Contacto
-**Email:** walid.essb@gmail.com  
+**Email:** walidessaidibh@gmail.com  
