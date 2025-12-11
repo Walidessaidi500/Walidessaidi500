@@ -22,7 +22,7 @@ Desarrollador en crecimiento, siempre aprendiendo algo nuevo. Me gustan las tecn
 ## 🌐 Otros proyectos personales
 - Canal de YouTube sobre desarrollo personal y productividad
 - Formándome en **copywriting** y **SEO**
-- Creación de tienda Shopify: **Velvra**
+- Creación de tienda Shopify
 
 ## 📫 Contacto
 **Email:** walidessaidibh@gmail.com  
